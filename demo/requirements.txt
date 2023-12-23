@@ -1,0 +1,6 @@
+audio_recorder_streamlit==0.0.8
+ffmpeg_python==0.2.0
+numpy==1.26.2
+pydub==0.25.1
+streamlit==1.29.0
+websocket_client==1.7.0
